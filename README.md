@@ -147,7 +147,7 @@ The experiments are designed to be run sequentially, as each step generates arti
 
 Our experiments demonstrate the effectiveness of the multi-stage, context-aware pipeline. The best-performing configuration, combining the **e5-large hybrid retriever** with a **fine-tuned MiniLM cross-encoder**, significantly outperforms all baseline models.
 
-_(This section can be updated with the final results tables from your experiments.)_
+_(This section can be updated with the final results tables )_
 
 ## 🎓 Citation
 
